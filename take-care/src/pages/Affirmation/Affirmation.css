@@ -1,0 +1,41 @@
+button { 
+    display: block;
+    margin-left: auto;
+    padding: 15px 30px;
+    border: none;
+    background-color: #996233;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 30px;
+  }
+  
+  .btn:hover {
+      background-color: #bf7b40;
+      transform: translateY(-2px);
+}
+
+
+
+.card-img-top {
+  width: 500px;
+  height: 500px;
+  display: flex;
+}
+.quote{
+  font-size: 18px;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.outer-div{
+  display: flex;
+  justify-items: center;
+  /* align-content: center; */
+  flex-direction: column;
+  margin-left: 40%;
+  margin: 0 auto;
+  
+}
+  

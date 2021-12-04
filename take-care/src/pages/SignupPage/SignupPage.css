@@ -1,0 +1,16 @@
+.SignupPage {
+  position: relative; 
+  width:100%;
+	height: 100%; 
+ 
+}
+body{
+	/* margin: 0;
+	padding: 0; 
+	display: flex;
+	justify-content: center;
+	align-items: center;  */
+	min-height: 100vmax;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom, #bf7b40, #C09175, #603e20);
+} 
